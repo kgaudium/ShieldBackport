@@ -1,0 +1,16 @@
+[
+{
+  "modid": "shieldbackport",
+  "name": "Shield Backport",
+  "description": "Backport of 1.9 shields.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kgaudium"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
